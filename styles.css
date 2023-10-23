@@ -3,11 +3,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    color:darkslateblue;
+    color:black;
     text-align: center;
 }
 .assign{
-    background-color: lightseagreen;
+    background-color: lightgray;
     margin: 10px;
     padding: 10px;
     display: flex;
