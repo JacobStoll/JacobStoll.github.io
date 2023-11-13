@@ -7,7 +7,7 @@ h1{
     text-align: center;
 }
 .assign{
-    background-color: lightgray;
+    background-color: #6CEBD9;
     margin: 10px;
     padding: 10px;
     display: flex;
@@ -16,3 +16,7 @@ h1{
     width: 400px;
     padding: 5px;
 }
+
+a{
+    test-decoration: none;
+    color: #68A9E8;
