@@ -7,6 +7,7 @@ h1{
     text-align: center;
 }
 .assign{
+    border-radius: 20px
     background-color: #6CEBD9;
     margin: 10px;
     padding: 10px;
@@ -14,9 +15,16 @@ h1{
 }
 .assign img{
     width: 400px;
-    padding: 5px;
+    padding: 10px;
+    border: 2px solid black
 }
 
 a{
     test-decoration: none;
     color: #68A9E8;
+}
+
+a:hover {
+ text-decoration: none;
+ color: salmon;
+}
