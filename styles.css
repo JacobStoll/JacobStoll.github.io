@@ -3,12 +3,12 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    color:black;
+    color:#BAE851;
     text-align: center;
 }
 .assign{
     border-radius: 20px
-    background-color: #6CEBD9;
+    background-color: #E6B840;
     margin: 10px;
     padding: 10px;
     display: flex;
@@ -21,10 +21,10 @@ h1{
 
 a{
     text-decoration: none;
-    color: #68A9E8;
+    color: #E5DF00;
 }
 
-a:hover {
+a:hover{
  text-decoration: none;
  color: salmon;
 }
