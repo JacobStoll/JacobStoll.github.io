@@ -14,8 +14,8 @@ h1{
 }
 .assign{
     width: 20%;
-    box-shadow: 8px 8px [pick a color];
-    display: block; /* instead of flex */
+    box-shadow: 8px 8px brown;
+    display: block;
     border-radius: 20px;
     background-color: #E6B840;
     margin: 10px;
